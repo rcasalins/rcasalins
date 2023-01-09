@@ -4,11 +4,8 @@
 
 <div id="description" align="center">
   <h1>Hello there</h1>
+  <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/>
 </div>
-
-\begin{center}
-[![GitHub Streak](https://streak-stats.demolab.com?user=rcasalins&theme=synthwave&hide_border=true&border_radius=30)](https://git.io/streak-stats)
-\end{center}
 
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
 
