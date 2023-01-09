@@ -11,22 +11,19 @@
 <div id="stats" align="center">
   <h1>Stats</h1>
   
+  <a href="https://git.io/streak-stats">
+   <img align="center" src="https://streak-stats.demolab.com?user=rcasalins&theme=synthwave&hide_border=true&border_radius=30" />
+  </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcasalins&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&hide_border=true&border_radius=30" />
   </a>
   
-  <a href="https://git.io/streak-stats">
-   <img align="center" src="https://streak-stats.demolab.com?user=rcasalins&theme=synthwave&hide_border=true&border_radius=30" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcasalins&theme=synthwave&hide_border=true&border_radius=30" />
   </a>
 </div>
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rcasalins&theme=synthwave&hide_border=true&border_radius=30)](https://git.io/streak-stats)
 
 [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=rcasalins&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&hide_border=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcasalins&theme=synthwave&hide_border=true&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcasalins&count_private=true&show_icons=true&theme=synthwave&hide_rank=false&hide_border=true&border_radius=30" />
-</a>
