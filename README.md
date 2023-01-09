@@ -4,7 +4,10 @@
 
 <div id="description" align="center">
   <h1>Hello there</h1>
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis amet saepe et!</p>
+  <p>My name is Rafael Casalins,I am a bachelor’s student in engineering physics at the National University of Colombia.I love optics, programming and doing
+experiments with light. I am able to work in interdisciplinary groups with very different kinds of people. Because of my studies, I
+am able to model a wide range of phenomena using various software and move across engineering and physics topics. Currently, I
+am looking for exciting research work in optics and photonics with a high combination of experimental, theoretical and modeling.</p>
   <a href="https://www.linkedin.com/in/rcasalins/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/></a>
 </div>
 
