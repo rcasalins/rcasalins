@@ -4,7 +4,7 @@
 
 <div id="description" align="center">
   <h1>Hello there</h1>
-  <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/>
+  <a href="https://www.linkedin.com/in/rcasalins/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/></a>
 </div>
 
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
