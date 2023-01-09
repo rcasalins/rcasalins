@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  <a href="https://www.linkedin.com/in/rcasalins/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/></a>
 </div>
 
 <div id="description" align="center">
@@ -9,8 +11,15 @@
 experiments with light. I am able to work in interdisciplinary groups with very different kinds of people. Because of my studies, I
 am able to model a wide range of phenomena using various software and move across engineering and physics topics. Currently, I
 am looking for exciting research work in optics and photonics with a high combination of experimental, theoretical and modeling.</p>
+</div>
+
+<div id="description" align="center">
+  <h1>Hello there</h1>
   
-  <a href="https://www.linkedin.com/in/rcasalins/"><img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" width="100"/></a>
+  <p>My name is Rafael Casalins,I am a bachelor’s student in engineering physics from Colombia.I love optics, programming and doing
+experiments with light. I am able to work in interdisciplinary groups with very different kinds of people. Because of my studies, I
+am able to model a wide range of phenomena using various software and move across engineering and physics topics. Currently, I
+am looking for exciting research work in optics and photonics with a high combination of experimental, theoretical and modeling.</p>
 </div>
 
 <div id="stats" align="center">
