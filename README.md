@@ -25,6 +25,6 @@ am looking for exciting research work in optics and photonics with a high combin
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcasalins&theme=synthwave&hide_border=true&border_radius=30" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcasalins&theme=synthwave&hide_border=true&border_radius=30&PATH_1=ytCu9WIFtKlz7pSQAXkLXRnc" />
   </a>
 </div>
