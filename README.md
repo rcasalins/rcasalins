@@ -7,10 +7,8 @@
 <div id="description" align="center">
   <h1>Hello there</h1>
   
-  <p>My name is Rafael Casalins,I am a bachelor’s student in engineering physics from Colombia.I love optics, programming and doing
-experiments with light. I am able to work in interdisciplinary groups with very different kinds of people. Because of my studies, I
-am able to model a wide range of phenomena using various software and move across engineering and physics topics. Currently, I
-am looking for exciting research work in optics and photonics with a high combination of experimental, theoretical and modeling.</p>
+  <p>My name is Rafael Casalins,I am a master’s student in engineering physics from Colombia.I like optics, photonics, programming and doing
+experiments with light.</p>
 </div>
 
 <div id="stats" align="center">
